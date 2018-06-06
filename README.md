@@ -9,5 +9,6 @@ Instructions:
 5. Paste it into your script editor. Click Save (the little floppy disk in the toolbar)
 6. Follow the instructions in the comments (light red text that starts with //). Note that Gmail will only let you send about 100 emails at once.
 7. Click Save again and click the bug button to debug your script before running it (the play button)
+8. Follow the instructions to authorize the app to use your Gmail account
 
 Made at the [Hacks/Hackers New Orleans](https://www.meetup.com/Hacks-Hackers-New-Orleans) hackathon for Open Data Day 2018.
