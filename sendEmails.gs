@@ -3,7 +3,7 @@ function sendEmails() {
   // startRow is the first row of data to process. It's usually '2' since you skip the header
   var startRow = 2;  
   // numRows is the number of rows to process - how many rows do you want to email before the script stops
-  var numRows = 97;   
+  var numRows = 100;   
 
   // Fetch the range of cells A2 to D2. All the relevant data (first name, last name, email, notes, etc) should be in this range
   var dataRange = sheet.getRange(startRow, 1, numRows, 4)
